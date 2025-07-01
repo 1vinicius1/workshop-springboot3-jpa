@@ -6,10 +6,10 @@
 Projeto simples para aprendizado da utilização do Java com o framework Springboot.
 
 ## Domain Model
-![DomainModel]([https://github.com/1vinicius1/workshop-springboot3-jpa/assets/DomainModel.jpg](https://github.com/1vinicius1/workshop-springboot3-jpa/blob/479abad0220f49de2a57b1e45bdbdd7e4fcddb7b/assets/DomainModel.PNG))
+![DomainModel](assets/DomainModel.PNG)
 
 ## Domain Instance
-![DomainInstance]([https://github.com/acenelio/assets/raw/main/sds1/web1.png](https://github.com/1vinicius1/workshop-springboot3-jpa/blob/479abad0220f49de2a57b1e45bdbdd7e4fcddb7b/assets/DomainInstance.PNG))
+![DomainInstance](assets/DomainInstance.PNG)
 
 # Tecnologias utilizadas
 ## Back end
